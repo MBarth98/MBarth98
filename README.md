@@ -1,8 +1,7 @@
-### Hi there 👋
 
 ### links primarily for my self (some content will not be publicly visible)
 
-[knowledge base](https://github.com/stars/MBarth98/lists/knowledge-base) - a list of repositories used as/for learning / teaching resources
+[knowledge base](https://github.com/stars/MBarth98/lists/knowledge-base) - a list of repositories used for learning / teaching
 
 |  repository| visiblity| description|
 |---|---| ---|
