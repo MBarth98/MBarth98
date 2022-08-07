@@ -8,3 +8,4 @@
 |[my book](https://github.com/MBarth98/book-language-and-compiler-design)|private|I am currently working on a book about language and compiler design, I am not ready to share any details at the moment.|
 |[RickrollOS](https://github.com/MBarth98/RickrollOS)|private|I am working on a small operating system with a couple of fellow students, giving me a chance to teach about programming in C and Assembly, while learning concepts related to OS engineering.|                                                                    
 |[Teaching material](https://github.com/MBarth98/Teachings)|private|A collection of lecture materials on various subjects in computer science|
+|[Config files](https://github.com/MBarth98/pub_config)|public|config files used for development tools|
