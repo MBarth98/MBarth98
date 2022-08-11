@@ -4,10 +4,10 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 \
-[![Top Langs](http://github-readme-stats-git-master-mbarth98.vercel.app/api/top-langs/?username=MBarth98)](http://github-readme-stats-git-master-mbarth98.vercel.app)
+[![Top Langs](http://github-readme-stats-git-master-mbarth98.vercel.app/api/top-langs/?username=MBarth98&orgs=Itplan-A-S)](http://github-readme-stats-git-master-mbarth98.vercel.app)
 ## Statistics
 
-![Github Stats](http://github-readme-stats-git-master-mbarth98.vercel.app/api?username=MBarth98&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](http://github-readme-stats-git-master-mbarth98.vercel.app/api?username=MBarth98&count_private=true&show_icons=true&include_all_commits=true&orgs=Itplan-A-S)
 
 
 --- ---
