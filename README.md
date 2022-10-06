@@ -26,7 +26,7 @@
 
 
 --- ---
-
+<!--
 # Resources
 
 [knowledge base](https://github.com/stars/MBarth98/lists/knowledge-base) - a list of repositories used for learning / teaching
@@ -37,4 +37,4 @@
 |[RickrollOS](https://github.com/MBarth98/RickrollOS)|private|I am working on a small operating system with a couple of fellow students, giving me a chance to teach about programming in C and Assembly, while learning concepts related to OS engineering.|                                                                    
 |[Teaching material](https://github.com/MBarth98/Teachings)|private|A collection of lecture materials on various subjects in computer science|
 |[Config files](https://github.com/MBarth98/pub_config)|public|config files used for development tools|
-
+-->
